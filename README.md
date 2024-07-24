@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small coding projects
 - 📫 How to reach me: @nat.17.low@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm also studying dance so I love the idea of finding ways to integrate both CS and Dance
 
 <!---
 na-mi-lo/na-mi-lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
